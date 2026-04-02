@@ -10,7 +10,7 @@ I am a **College Student** and aspiring **Engineer** based in **Kolkata**. I spe
 ---
 
 ## 🛠 Tech Stack & Tools
-* **Languages:** Python, C++, JavaScript (Update these to match your skills!)
+* **Languages:** Python, C++, JavaScript
 * **Fields of Interest:** Computational Science, Engineering Design, Data Structures.
 * **Tools:** Git, VS Code, MATLAB/Simulink.
 
